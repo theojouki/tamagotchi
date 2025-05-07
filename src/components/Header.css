@@ -1,0 +1,12 @@
+.header-container{
+    background-color: #292C2D;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+    .text-title{
+    color: white;
+    font-size: 80px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
